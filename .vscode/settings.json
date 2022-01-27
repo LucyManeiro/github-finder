@@ -6,5 +6,6 @@
     },
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
-    }
+    },
+    "reactSnippets.settings.importReactOnTop": false
 }
